@@ -3,7 +3,7 @@
     "configMode": "LOCAL",
     "configExternalURL": "",
     "projectToken": "",
-    "baseBranches": []
+    "baseBranches": [main,'test']
   },
   "checkRunSettings": {
     "vulnerableCheckRunConclusionLevel": "failure",
