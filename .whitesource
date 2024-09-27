@@ -11,12 +11,12 @@
     "useMendCheckNames": true
   },
   "issueSettings": {
-    "minSeverityLevel": "NONE",
+    "minSeverityLevel": "LOW",
     "issueType": "DEPENDENCY"
   },
   "remediateSettings": {
     "workflowRules": {
-      "enabled": false
+      "enabled": true
     }
   }
 }
